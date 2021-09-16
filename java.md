@@ -3,10 +3,8 @@ layout: default
 title: 林的博客
 description: 记住该记住的，忘记该忘记的。改变能改变的，理解不能改变的。
 ---
-</center>
 ## JAVA
-</center>
-<img src="https://gogeta.oss-cn-hangzhou.aliyuncs.com/img/202109161550774.webp" width="18px">
+<img src="https://gogeta.oss-cn-hangzhou.aliyuncs.com/img/202109161550774.webp">
 
 Java是一门面向对象编程语言，不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指针等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程。
 
