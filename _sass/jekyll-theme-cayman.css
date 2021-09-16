@@ -762,7 +762,7 @@ a:hover {
 .page-header {
   color: #fff;
   text-align: center;
-  background-image: url();
+  background-image: url("https://gogeta.oss-cn-hangzhou.aliyuncs.com/img/202109161447000.jpg");
 }
 
 @media screen and (min-width: 64em) {
