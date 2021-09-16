@@ -1,5 +1,9 @@
 ## lwj的博客
+[关于我](./about.html).
 
-[Link to another page](./another-page.html).
-[Link to about page](./about.html).
-[Link to java page](./java.html).
+
+[Java](./java.html).
+
+
+[其他页面](./another-page.html).
+

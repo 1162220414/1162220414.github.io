@@ -4,8 +4,7 @@ title: Another page
 description: This is just another page
 ---
 
-## Welcome to another page
-
+欢迎
 
 
 [返回](./)
