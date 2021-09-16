@@ -764,6 +764,7 @@ a:hover {
   text-align: center;
   background-color: #7F7FD5;
   background-image: url("https://gogeta.oss-cn-hangzhou.aliyuncs.com/img/202109161454817.jpg");
+  background-size: contain;
 }
 
 @media screen and (min-width: 64em) {
